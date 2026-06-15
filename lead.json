@@ -12,5 +12,9 @@
   "value_signal": "Centros de FP con grados basicos, medios, superiores, certificados, Erasmus+, Top Up Bachelor y modalidad presencial/virtual.",
   "demo_url": "https://demo-madrid-formacion-teide-hease.vercel.app",
   "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-formacion-teide-hease",
-  "outreach_status": "drafted_not_sent"
+  "outreach_status": "queued_pending",
+  "outreach_queue_id": "hermes-webdemo-20260615-014",
+  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_contact_type": "email publico de asesor FP; no localizado CEO/RRHH publico",
+  "proposed_price": "1.480 EUR"
 }
