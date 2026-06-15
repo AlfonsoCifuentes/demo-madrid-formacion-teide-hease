@@ -12,3 +12,8 @@ Punto debil trabajado:
 La oferta es amplia, pero la navegacion tiene demasiados niveles antes de llevar al alumno o familia al programa adecuado.
 
 Stack: HTML estatico, CSS embebido y vercel.json para despliegue en Vercel.
+
+## Publicacion
+
+- GitHub: https://github.com/AlfonsoCifuentes/demo-madrid-formacion-teide-hease
+- Vercel: https://demo-madrid-formacion-teide-hease.vercel.app

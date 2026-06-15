@@ -10,7 +10,7 @@
   "price": "1.480 EUR",
   "weakness": "La oferta es amplia, pero la navegacion tiene demasiados niveles antes de llevar al alumno o familia al programa adecuado.",
   "value_signal": "Centros de FP con grados basicos, medios, superiores, certificados, Erasmus+, Top Up Bachelor y modalidad presencial/virtual.",
-  "demo_url": null,
-  "github_url": null,
+  "demo_url": "https://demo-madrid-formacion-teide-hease.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-formacion-teide-hease",
   "outreach_status": "drafted_not_sent"
 }
