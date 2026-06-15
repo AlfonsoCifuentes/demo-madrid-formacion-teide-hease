@@ -1,0 +1,16 @@
+{
+  "slug": "demo-madrid-formacion-teide-hease",
+  "brand": "Grupo TEIDE-HEASE",
+  "sector": "centros de formacion profesional",
+  "city": "Madrid",
+  "source_url": "http://www.teideformacion.es/",
+  "public_contact_email": "asesor.fp@teideformacion.com",
+  "public_contact_type": "email publico de asesor FP; no localizado CEO/RRHH publico",
+  "phone": "91 408 73 11",
+  "price": "1.480 EUR",
+  "weakness": "La oferta es amplia, pero la navegacion tiene demasiados niveles antes de llevar al alumno o familia al programa adecuado.",
+  "value_signal": "Centros de FP con grados basicos, medios, superiores, certificados, Erasmus+, Top Up Bachelor y modalidad presencial/virtual.",
+  "demo_url": null,
+  "github_url": null,
+  "outreach_status": "drafted_not_sent"
+}
