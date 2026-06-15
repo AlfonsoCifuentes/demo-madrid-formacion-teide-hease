@@ -1,26 +1,23 @@
 # Email draft - Grupo TEIDE-HEASE
 
 - To: asesor.fp@teideformacion.com
-- Contact type: email publico de asesor FP; no localizado CEO/RRHH publico
-- Subject: Grupo TEIDE-HEASE: demo para ordenar la captacion de alumnos FP
+- Subject: Grupo TEIDE-HEASE: propuesta web para simplificar admisiones FP
 - Proposed price: 1.480 EUR
 - Demo: https://demo-madrid-formacion-teide-hease.vercel.app
 - Source: http://www.teideformacion.es/
 
 Hola,
 
-He revisado la web de Grupo TEIDE-HEASE. Teneis mucha oferta y eso es bueno: grado basico, medio, superior, certificados, Erasmus+, Top Up Bachelor, modalidades y centros.
-
-El problema es que tanta oferta en menu puede bloquear la decision. Un alumno o una familia no quiere recorrer categorias; quiere responder: que puedo estudiar, donde, modalidad, salidas y como pido informacion.
-
-He preparado una demo de admisiones FP:
+He preparado una propuesta visual para Grupo TEIDE-HEASE:
 https://demo-madrid-formacion-teide-hease.vercel.app
 
-La demo convierte la web en un buscador comercial: programas destacados, filtros por perfil, llamadas claras a asesor FP y bloques para empleabilidad/Erasmus.
+La página está planteada como una web final de admisiones: programas, niveles, modalidades, Erasmus+, empleabilidad y contacto con asesor FP.
 
-El coste de implantacion seria 1.480 EUR, pago unico, con version movil, estructura de admisiones y traspaso del contenido principal. Para un centro de FP, una matricula adicional ya lo justifica.
+La web actual ofrece mucha información, pero puede simplificar el camino de alumnos y familias para encontrar programa, modalidad, centro y siguiente paso.
 
-Si os encaja, lo vemos en una llamada corta.
+Presupuesto cerrado: 1.480 EUR, pago único. Incluye rediseño responsive, estructura de admisiones, formularios de información, traspaso de contenido principal y publicación.
+
+Si os interesa, puedo enseñaros la propuesta y revisar qué familias formativas conviene destacar.
 
 Un saludo,
 Alfonso Cifuentes
